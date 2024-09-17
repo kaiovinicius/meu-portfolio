@@ -1,0 +1,13 @@
+2024-08-02 09:24:55,105 - INFO - Iniciando captura de sinalização.
+2024-08-02 09:24:56,249 - INFO - Sinalização capturada com sucesso.
+2024-08-02 09:24:56,249 - INFO - Iniciando separação de chamadas.
+2024-08-02 09:25:09,839 - INFO - Chamadas separadas com sucesso.
+2024-08-02 09:25:09,839 - INFO - Iniciando captura de mídia.
+2024-08-02 09:25:12,845 - INFO - Mídia capturada com sucesso.
+2024-08-02 09:25:12,846 - INFO - Iniciando combinação de sinalização e mídia.
+2024-08-02 09:25:15,905 - INFO - Combinação realizada com sucesso.
+2024-08-02 09:25:15,905 - INFO - Iniciando filtragem de pacotes RTP.
+2024-08-02 09:25:58,645 - INFO - Filtragem de pacotes RTP realizada com sucesso.
+2024-08-02 09:25:58,645 - INFO - Apagando arquivos temporários.
+2024-08-02 09:25:58,742 - INFO - Arquivos temporários apagados com sucesso.
+2024-08-02 09:28:37,746 - INFO - Processo de filtragem concluído com sucesso.
